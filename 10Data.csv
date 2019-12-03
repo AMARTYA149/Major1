@@ -1,0 +1,6 @@
+ImageIndex,FindingLabels,Follow-up,PatientID,PatientAge,PatientGender,ViewPosition,OriginalImage[Width,Height],OriginalImagePixelSpacing[x,y]
+00018387_035.png,Effusion|Infiltration,35,18387,59,M,PA,2992,2991,0.143,0.143
+00018387_036.png,Infiltration,36,18387,59,M,PA,3056,2516,0.139,0.139
+00018387_037.png,No Finding,37,18387,59,M,PA,2992,2991,0.143,0.143
+00018388_000.png,Atelectasis|Infiltration,0,18388,76,M,PA,2992,2991,0.143,0.143
+00018388_001.png,No Finding,1,18388,77,M,PA,2992,2991,0.143,0.143
